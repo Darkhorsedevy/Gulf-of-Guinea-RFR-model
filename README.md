@@ -1,2 +1,21 @@
 # Gulf-of-Guinea-RFR-model
-This is the code used for working on the Gulf of Guinea PATHS framework projections. A Random Forest Regression model was used to make projections for pipeline vandalism reductions, Oil spillage, gas flaring, youth employment, GDP growth rate, Electricity generation and Energy revenues.
+# PATHS Project – Random Forest Regression Models
+
+This repository contains MATLAB code to train Random Forest Regression models for key metrics in the PATHS Project.
+
+📂 **File:** `PATHS_RandomForest_MultiModel.m`  
+🔍 Trained for 8 targets:
+- Gas Flaring (bcm/year)
+- Pipeline Vandalism (cases/year)
+- Oil Spillage (cases/year)
+- Energy Revenue (USD billion)
+- Electricity Generation (GW)
+- GDP Growth Rate (%)
+- Youth Employment (thousands)
+- Pipeline Construction (km)
+
+## How to Use
+1. Download or clone the repository.
+2. Open the `.m` file in MATLAB.
+3. Ensure your dataset is named `PATHS_data.csv` and formatted correctly.
+4. Run the script to train and save models + feature plots.
