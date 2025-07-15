@@ -2,9 +2,9 @@
 % ------------------------------------------------------------------------
 % PATHS Project: Random Forest Regression Models for Key Performance Parameters
 % ------------------------------------------------------------------------
-% Author: [Your Name]
-% GitHub: [Your GitHub handle or repo link]
-% Date: [Insert Date]
+% Author: Oluwaseyi Amaize
+% GitHub: Darkhorsedevy
+% Date: July, 2025
 % Description:
 % Trains Random Forest Regression models using Bagged Trees for multiple
 % key metrics in the PATHS development project. Outputs include model
